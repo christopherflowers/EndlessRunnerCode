@@ -1,0 +1,1115 @@
+﻿Log file open, 04/09/18 08:14:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EndlessRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(875640136) SRandInit(875640136).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192088
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.086s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am JH316-13 (144.13.198.69:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.09-13.14.30:313][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-13.14.30:313][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.09-13.14.30:329][  0]LogInit: Computer: JH316-13
+[2018.04.09-13.14.30:329][  0]LogInit: User: flowersc7471
+[2018.04.09-13.14.30:329][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.09-13.14.30:329][  0]LogInit: High frequency timer resolution =2.728057 MHz
+[2018.04.09-13.14.30:330][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.04.09-13.14.30:330][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.09-13.14.30:330][  0]LogMemory: Process Physical Memory: 276.72 MB used, 276.72 MB peak
+[2018.04.09-13.14.30:330][  0]LogMemory: Process Virtual Memory: 267.93 MB used, 267.93 MB peak
+[2018.04.09-13.14.30:330][  0]LogMemory: Physical Memory: 11340.46 MB used,  54111.71 MB free, 65452.18 MB total
+[2018.04.09-13.14.30:330][  0]LogMemory: Virtual Memory: 691.91 MB used,  54111.71 MB free, 134217728.00 MB total
+[2018.04.09-13.14.30:349][  0]LogInit: Using OS detected language (en-US).
+[2018.04.09-13.14.30:349][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.09-13.14.30:354][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.09-13.14.30:970][  0]LogStreaming: Display: Took  0.621s to EndInitTextLocalization.
+[2018.04.09-13.14.30:970][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.09-13.14.31:010][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.09-13.14.31:010][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.09-13.14.31:305][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.09-13.14.31:341][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2018.04.09-13.14.31:341][  0]LogD3D11RHI:       8152/0/32726 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.09-13.14.31:343][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.09-13.14.31:343][  0]LogD3D11RHI:       0/0/32726 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.09-13.14.31:343][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.09-13.14.31:348][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.09-13.14.31:348][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.09-13.14.31:348][  0]LogWindows: EnumDisplayDevices:
+[2018.04.09-13.14.31:348][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2018.04.09-13.14.31:348][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2018.04.09-13.14.31:349][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2018.04.09-13.14.31:349][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2018.04.09-13.14.31:349][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.04.09-13.14.31:349][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2018.04.09-13.14.31:349][  0]LogD3D11RHI:   Driver Version: 377.11 (internal:21.21.13.7711, unified:377.11)
+[2018.04.09-13.14.31:349][  0]LogD3D11RHI:      Driver Date: 3-17-2017
+[2018.04.09-13.14.31:349][  0]LogRHI: Texture pool is 5706 MB (70% of 8152 MB)
+[2018.04.09-13.14.31:371][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.09-13.14.31:371][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.09-13.14.31:384][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.09-13.14.31:482][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Intermediate/Shaders/WorkingDirectory/7908/).
+[2018.04.09-13.14.31:483][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/flowersc7471/AppData/Local/Temp/UnrealShaderWorkingDir/8534BEC84A2227380D9F72A43D035F53/'.
+[2018.04.09-13.14.31:882][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.09-13.14.31:902][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.09-13.14.31:922][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.09-13.14.31:941][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.09-13.14.31:960][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.09-13.14.31:979][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.09-13.14.31:997][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.09-13.14.32:017][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.09-13.14.32:026][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.09-13.14.32:043][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.09-13.14.32:060][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.09-13.14.32:076][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.09-13.14.32:093][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.09-13.14.32:110][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.09-13.14.32:127][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.09-13.14.32:168][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.09-13.14.32:168][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.09-13.14.32:184][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.09-13.14.32:186][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.09-13.14.32:229][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.09-13.14.32:245][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.09-13.14.32:261][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.09-13.14.32:278][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.09-13.14.32:295][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.09-13.14.32:312][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.09-13.14.32:313][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.09-13.14.32:452][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.09-13.14.32:452][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.09-13.14.32:452][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.09-13.14.33:476][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/flowersc7471/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/flowersc7471/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.09-13.14.33:572][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.09-13.14.33:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.09-13.14.33:608][  0]LogDerivedDataCache: Using Local data cache path C:/Users/flowersc7471/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.09-13.14.33:622][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.09-13.14.33:622][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.09-13.14.33:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-13.14.33:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-13.14.33:771][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.04.09-13.14.34:179][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-13.14.34:369][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.09-13.14.34:373][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.09-13.14.34:373][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.09-13.14.34:373][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.09-13.14.34:373][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.09-13.14.34:373][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.09-13.14.34:415][  0]LogNetVersion: EndlessRunner , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3621280811)
+[2018.04.09-13.14.35:024][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.093843 seconds
+[2018.04.09-13.14.35:031][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.09-13.14.35:031][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.09-13.14.35:031][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.09-13.14.37:204][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.09-13.14.37:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.09-13.14.37:708][  0]SourceControl: Source control is disabled
+[2018.04.09-13.14.37:708][  0]SourceControl: Source control is disabled
+[2018.04.09-13.14.37:729][  0]SourceControl: Source control is disabled
+[2018.04.09-13.14.37:750][  0]SourceControl: Source control is disabled
+[2018.04.09-13.14.38:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.09-13.14.38:559][  0]LogOcInput: OculusInput pre-init called
+[2018.04.09-13.14.38:693][  0]LogEngine: Initializing Engine...
+[2018.04.09-13.14.38:694][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.09-13.14.38:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-13.14.38:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-13.14.39:016][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.09-13.14.39:046][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-13.14.39:065][  0]LogInit: FAudioDevice initialized.
+[2018.04.09-13.14.39:185][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/flowersc7471/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.09-13.14.39:199][  0]LogInit: Texture streaming: Enabled
+[2018.04.09-13.14.39:219][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.09-13.14.39:238][  0]LogInit: Transaction tracking system initialized
+[2018.04.09-13.14.39:271][  0]BlueprintLog: New page: Editor Load
+[2018.04.09-13.14.39:443][  0]LocalizationService: Localization service is disabled
+[2018.04.09-13.14.39:590][  0]LogConsoleResponse: Display: 
+[2018.04.09-13.14.39:797][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.09-13.14.39:798][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.09-13.14.39:798][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.09-13.14.39:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-13.14.39:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-13.14.40:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/' took 0.02s
+[2018.04.09-13.14.40:246][  0]SourceControl: Source control is disabled
+[2018.04.09-13.14.40:248][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.04.09-13.14.40:256][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.09-13.14.40:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.04.09-13.14.40:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.04.09-13.14.40:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.04.09-13.14.40:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.04.09-13.14.40:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.04.09-13.14.40:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.04.09-13.14.40:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.04.09-13.14.40:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.04.09-13.14.40:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.04.09-13.14.40:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.04.09-13.14.40:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.04.09-13.14.40:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.04.09-13.14.40:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.04.09-13.14.40:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.04.09-13.14.40:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.04.09-13.14.40:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.04.09-13.14.40:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.04.09-13.14.40:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire01.uasset"
+[2018.04.09-13.14.40:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.04.09-13.14.40:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.04.09-13.14.40:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.04.09-13.14.40:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light01.uasset"
+[2018.04.09-13.14.40:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.04.09-13.14.40:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light02.uasset"
+[2018.04.09-13.14.40:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.04.09-13.14.40:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.04.09-13.14.40:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.04.09-13.14.40:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.04.09-13.14.40:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.04.09-13.14.40:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.04.09-13.14.40:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.04.09-13.14.40:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.04.09-13.14.40:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.04.09-13.14.40:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Steam01.uasset"
+[2018.04.09-13.14.40:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.04.09-13.14.40:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.04.09-13.14.40:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.04.09-13.14.40:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.04.09-13.14.40:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.04.09-13.14.40:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.04.09-13.14.40:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.04.09-13.14.40:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.04.09-13.14.40:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.04.09-13.14.40:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.04.09-13.14.40:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.04.09-13.14.40:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.04.09-13.14.40:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.04.09-13.14.40:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.04.09-13.14.40:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.04.09-13.14.40:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.04.09-13.14.40:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.04.09-13.14.40:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.04.09-13.14.40:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.04.09-13.14.41:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.04.09-13.14.41:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.04.09-13.14.41:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.04.09-13.14.41:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/StarterMap.umap"
+[2018.04.09-13.14.41:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.04.09-13.14.41:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.04.09-13.14.41:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.04.09-13.14.41:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.04.09-13.14.41:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.04.09-13.14.41:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.04.09-13.14.41:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.04.09-13.14.41:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.04.09-13.14.41:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.04.09-13.14.41:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.04.09-13.14.41:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.04.09-13.14.41:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.04.09-13.14.41:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.04.09-13.14.41:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.04.09-13.14.41:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.04.09-13.14.41:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.04.09-13.14.41:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.04.09-13.14.41:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.04.09-13.14.41:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.04.09-13.14.41:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.04.09-13.14.41:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.04.09-13.14.41:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.04.09-13.14.41:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.04.09-13.14.41:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.04.09-13.14.41:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.04.09-13.14.41:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.04.09-13.14.41:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.04.09-13.14.41:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.04.09-13.14.41:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.04.09-13.14.41:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.04.09-13.14.41:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.04.09-13.14.41:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.04.09-13.14.41:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.04.09-13.14.41:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.04.09-13.14.41:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.04.09-13.14.41:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.04.09-13.14.41:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.04.09-13.14.41:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.04.09-13.14.41:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.04.09-13.14.41:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.04.09-13.14.41:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.04.09-13.14.41:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.04.09-13.14.41:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.04.09-13.14.41:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.04.09-13.14.41:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.04.09-13.14.41:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.04.09-13.14.41:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.04.09-13.14.41:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.04.09-13.14.41:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.04.09-13.14.41:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.04.09-13.14.41:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.04.09-13.14.41:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.04.09-13.14.41:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.04.09-13.14.41:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.04.09-13.14.41:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.04.09-13.14.41:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.04.09-13.14.41:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.04.09-13.14.41:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.04.09-13.14.41:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.04.09-13.14.41:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.04.09-13.14.41:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.04.09-13.14.41:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.04.09-13.14.41:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.04.09-13.14.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.04.09-13.14.41:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.04.09-13.14.41:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Door.uasset"
+[2018.04.09-13.14.41:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.04.09-13.14.41:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.04.09-13.14.41:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.04.09-13.14.41:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.04.09-13.14.41:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.04.09-13.14.41:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.04.09-13.14.41:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.04.09-13.14.41:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.04.09-13.14.41:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.04.09-13.14.42:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.04.09-13.14.42:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.04.09-13.14.42:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.04.09-13.14.42:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.04.09-13.14.42:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.04.09-13.14.42:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.04.09-13.14.42:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.04.09-13.14.42:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.04.09-13.14.42:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.04.09-13.14.42:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.04.09-13.14.42:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.04.09-13.14.42:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.04.09-13.14.42:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.04.09-13.14.42:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.04.09-13.14.42:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.04.09-13.14.42:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.04.09-13.14.42:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.04.09-13.14.42:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.04.09-13.14.42:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.04.09-13.14.42:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.04.09-13.14.42:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.04.09-13.14.42:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.04.09-13.14.42:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.04.09-13.14.42:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.04.09-13.14.42:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.04.09-13.14.42:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.04.09-13.14.42:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.04.09-13.14.42:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.04.09-13.14.42:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.04.09-13.14.42:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.04.09-13.14.42:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.04.09-13.14.42:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.04.09-13.14.42:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.04.09-13.14.42:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.04.09-13.14.42:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.04.09-13.14.42:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.04.09-13.14.42:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.04.09-13.14.42:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.04.09-13.14.42:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.04.09-13.14.42:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.04.09-13.14.42:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.04.09-13.14.42:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.04.09-13.14.42:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.04.09-13.14.42:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.04.09-13.14.42:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.04.09-13.14.42:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.04.09-13.14.42:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.04.09-13.14.42:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.04.09-13.14.42:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.04.09-13.14.42:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.04.09-13.14.43:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.04.09-13.14.43:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.04.09-13.14.43:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.04.09-13.14.43:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.04.09-13.14.43:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.04.09-13.14.43:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.04.09-13.14.43:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.04.09-13.14.43:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.04.09-13.14.43:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.04.09-13.14.43:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.04.09-13.14.43:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.04.09-13.14.43:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.04.09-13.14.43:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.04.09-13.14.43:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.04.09-13.14.43:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.04.09-13.14.43:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.04.09-13.14.43:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.04.09-13.14.43:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.04.09-13.14.43:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.04.09-13.14.43:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.04.09-13.14.43:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.04.09-13.14.43:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.04.09-13.14.43:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.04.09-13.14.43:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.04.09-13.14.43:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.04.09-13.14.43:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.04.09-13.14.43:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.04.09-13.14.43:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.04.09-13.14.43:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.04.09-13.14.43:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.04.09-13.14.43:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.04.09-13.14.43:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.04.09-13.14.43:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.04.09-13.14.43:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.04.09-13.14.43:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.04.09-13.14.44:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.04.09-13.14.44:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.04.09-13.14.44:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.04.09-13.14.44:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.04.09-13.14.44:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.04.09-13.14.44:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.04.09-13.14.44:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.04.09-13.14.44:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.04.09-13.14.44:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.04.09-13.14.44:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.04.09-13.14.44:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.04.09-13.14.44:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.04.09-13.14.44:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.04.09-13.14.44:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.04.09-13.14.44:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.04.09-13.14.44:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.04.09-13.14.44:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.04.09-13.14.44:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.04.09-13.14.44:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.04.09-13.14.44:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.04.09-13.14.44:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.04.09-13.14.44:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.04.09-13.14.44:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.04.09-13.14.44:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.04.09-13.14.44:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.04.09-13.14.44:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.04.09-13.14.44:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.04.09-13.14.44:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.04.09-13.14.44:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.04.09-13.14.44:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.04.09-13.14.44:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.04.09-13.14.44:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.04.09-13.14.44:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.04.09-13.14.45:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.04.09-13.14.45:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.04.09-13.14.45:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.04.09-13.14.45:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.04.09-13.14.45:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.04.09-13.14.45:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.04.09-13.14.45:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.04.09-13.14.45:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.04.09-13.14.45:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.04.09-13.14.45:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.04.09-13.14.45:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.04.09-13.14.45:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.04.09-13.14.45:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.04.09-13.14.45:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.04.09-13.14.45:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.04.09-13.14.45:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.04.09-13.14.45:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.04.09-13.14.45:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.04.09-13.14.45:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.04.09-13.14.45:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.04.09-13.14.45:475][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.04.09-13.14.45:476][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.04.09-13.14.45:564][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-13.14.45:759][  0]LogSavePackage: Save=16.99ms
+[2018.04.09-13.14.45:759][  0]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Floor_400x400F4CCDD824C68C2C0E8226ABC0987548A.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.04.09-13.14.45:766][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.04.09-13.14.45:766][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.04.09-13.14.45:771][  0]Cmd: MAP LOAD FILE="../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.09-13.14.45:772][  0]LightingResults: New page: Lighting Build
+[2018.04.09-13.14.45:777][  0]MapCheck: New page: Map Check
+[2018.04.09-13.14.45:777][  0]LightingResults: New page: Lighting Build
+[2018.04.09-13.14.46:306][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [15.187366ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.09-13.14.46:434][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.09-13.14.46:469][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.09-13.14.46:490][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.09-13.14.46:564][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.223ms to complete.
+[2018.04.09-13.14.46:564][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.793
+[2018.04.09-13.14.46:769][  0]LogCollectionManager: Loaded 0 collections in 0.003060 seconds
+[2018.04.09-13.14.46:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Collections/' took 0.01s
+[2018.04.09-13.14.46:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/Developers/flowersc7471/Collections/' took 0.01s
+[2018.04.09-13.14.46:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/Collections/' took 0.02s
+[2018.04.09-13.14.46:828][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.09-13.14.46:841][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2452 classes and 558 folders.
+[2018.04.09-13.14.46:852][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-13.14.46:909][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-13.14.46:923][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.09-13.14.46:950][  0]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.09-13.14.46:955][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.09-13.14.46:969][  0]LogSlate: Took 0.006947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.09-13.14.47:064][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-13.14.47:121][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.09-13.14.47:348][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.14.47:374][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.04.09-13.14.47:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-13.14.47:432][  0]LogLoad: (Engine Initialization) Total time: 19.44 seconds
+[2018.04.09-13.14.47:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.09-13.14.48:303][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.09-13.14.49:479][  4]LogAssetRegistry: Asset discovery search completed in 15.7298 seconds
+[2018.04.09-13.14.49:481][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.09-13.14.49:481][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.04.09-13.14.51:507][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.14.57:733][547]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.09-13.14.58:159][547]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.04.09-13.14.59:333][547]LogSlate: Took 0.006007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.09-13.14.59:632][548]LogSlate: Took 0.006593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.09-13.15.30:639][ 99]LogRenderer: Reallocating scene render targets to support 1056x872 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-13.16.08:706][173]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.04.09-13.16.08:706][173]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.04.09-13.16.08:706][173]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.04.09-13.16.08:717][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.16.52:084][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.16.52:128][658]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.17.30:767][917]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.17.38:968][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-13.17.39:003][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.17.39:004][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-13.17.39:005][577]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 9, 2018, 3:17:39 AM)
+[2018.04.09-13.17.39:005][577]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.09-13.17.39:042][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037577s)
+[2018.04.09-13.17.39:044][577]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.09-13.17.39:044][577]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2018.04.09-13.17.39:044][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039333s)
+[2018.04.09-13.17.39:076][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-13.17.39:088][577]LogInit: FAudioDevice initialized.
+[2018.04.09-13.17.39:156][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.09-13.17.39:162][577]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.09-08.17.39
+[2018.04.09-13.17.39:163][577]LogWorld: Bringing up level for play took: 0.002695
+[2018.04.09-13.17.39:172][577]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.09-13.17.39:173][577]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.243
+[2018.04.09-13.17.39:173][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.17.43:633][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.17.43:673][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.17.48:832][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.20.14:798][843]LogSlate: Took 0.005365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.09-13.26.33:109][373]LogSavePackage: Save=153.91ms
+[2018.04.09-13.26.33:110][373]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_Auto154B150DD4B030ED1D25C438F081334CA.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.09-13.26.33:112][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.09-13.26.33:118][373]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.210
+[2018.04.09-13.26.33:119][373]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2018.04.09-13.26.33:120][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.09-13.26.33:139][373]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.09-13.26.33:139][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.09-13.26.33:225][373]LogSavePackage: Save=73.50ms
+[2018.04.09-13.26.33:225][373]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonCharacter_Auto1526E7A444B741E36D5EF68BB87E46C1A.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.04.09-13.26.33:226][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.04.09-13.26.33:226][373]LogFileHelpers: Auto-saving content packages took 0.107
+[2018.04.09-13.26.37:693][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.27.00:265][323]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.27.03:031][462]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.28.05:837][148]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.28.33:157][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.28.33:223][741]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-13.28.33:256][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.28.33:256][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-13.28.33:257][741]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 9, 2018, 3:28:33 AM)
+[2018.04.09-13.28.33:257][741]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.09-13.28.33:276][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019744s)
+[2018.04.09-13.28.33:278][741]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.09-13.28.33:278][741]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2018.04.09-13.28.33:278][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021346s)
+[2018.04.09-13.28.33:307][741]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-13.28.33:320][741]LogInit: FAudioDevice initialized.
+[2018.04.09-13.28.33:355][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.09-13.28.33:358][741]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.09-08.28.33
+[2018.04.09-13.28.33:359][741]LogWorld: Bringing up level for play took: 0.002592
+[2018.04.09-13.28.33:360][741]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.428
+[2018.04.09-13.28.33:360][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.28.57:005][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.28.57:045][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.29.15:436][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.30.05:910][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-13.30.05:924][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.30.05:924][865]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-13.30.05:937][865]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.09-13.30.06:382][865]LogPlayLevel: PlayLevel: Blueprint regeneration took 457 ms (1 blueprints)
+[2018.04.09-13.30.06:382][865]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 9, 2018, 3:30:06 AM)
+[2018.04.09-13.30.06:382][865]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.09-13.30.06:399][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017092s)
+[2018.04.09-13.30.06:401][865]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.09-13.30.06:401][865]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2018.04.09-13.30.06:401][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018927s)
+[2018.04.09-13.30.06:427][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-13.30.06:437][865]LogInit: FAudioDevice initialized.
+[2018.04.09-13.30.06:474][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.09-13.30.06:477][865]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.09-08.30.06
+[2018.04.09-13.30.06:477][865]LogWorld: Bringing up level for play took: 0.002004
+[2018.04.09-13.30.06:478][865]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.546
+[2018.04.09-13.30.06:478][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.30.50:099][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.31.24:263][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.36.53:796][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.36.56:514][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.36.56:551][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.09-13.36.58:046][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.36.59:472][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.36.59:750][246]LogSavePackage: Save=148.56ms
+[2018.04.09-13.36.59:751][246]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap2A2B4FC64544D50F4CBED8A4F75C946C.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.09-13.36.59:751][246]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2018.04.09-13.37.00:252][246]LogFileManager: Error: Error deleting file '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'.
+[2018.04.09-13.37.00:252][246]LogSavePackage: Error: Error saving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.09-13.37.00:256][246]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.09-13.37.00:279][246]EditorErrors: New page: Save Output
+[2018.04.09-13.37.00:279][246]EditorErrors: Warning: Error saving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.09-13.37.00:297][246]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.814
+[2018.04.09-13.37.07:751][246]LogSlate: Window 'Message' being destroyed
+[2018.04.09-13.37.09:051][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.09:132][347]LogSlate: Window 'Message Log' being destroyed
+[2018.04.09-13.37.09:136][347]LogSlate: Window 'Message Log' being destroyed
+[2018.04.09-13.37.11:622][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.11:696][482]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.09-13.37.12:867][518]LogSavePackage: Save=53.63ms
+[2018.04.09-13.37.12:867][518]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonCharacter096BB038407900849C4FB38D82735F1B.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.09-13.37.12:868][518]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset', retrying in .5s...
+[2018.04.09-13.37.13:368][518]LogFileManager: Error: Error deleting file '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'.
+[2018.04.09-13.37.13:369][518]LogSavePackage: Error: Error saving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.09-13.37.13:372][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.09-13.37.24:099][518]LogSlate: Window 'Message' being destroyed
+[2018.04.09-13.37.24:106][518]EditorErrors: New page: Save Output
+[2018.04.09-13.37.24:107][518]EditorErrors: Warning: Error saving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.09-13.37.24:114][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.37.25:689][630]LogSlate: Window 'Message Log' being destroyed
+[2018.04.09-13.37.25:694][630]LogSlate: Window 'Message Log' being destroyed
+[2018.04.09-13.37.26:674][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.26:814][712]LogSavePackage: Save=44.14ms
+[2018.04.09-13.37.26:814][712]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonCharacter556358BC4C38FE25B5940E8E4ECFDCE0.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.09-13.37.26:820][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.09-13.37.28:642][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.28:721][861]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.04.09-13.37.28:725][861]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.04.09-13.37.30:211][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.30:487][ 14]LogSavePackage: Save=170.71ms
+[2018.04.09-13.37.30:487][ 14]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap9D697B6942353E9D564772A2B09EC824.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.09-13.37.30:493][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.09-13.37.30:745][ 14]LogSavePackage: Save=216.94ms
+[2018.04.09-13.37.30:746][ 14]LogSavePackage: Moving '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_BuiltData4497610F4D26AA884831049F3B22AFFC.tmp' to '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.09-13.37.30:748][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.09-13.37.32:421][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-13.37.35:519][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-13.37.36:755][711]LogSlate: Window 'EndlessRunner - Unreal Editor' being destroyed
+[2018.04.09-13.37.36:755][711]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.09-13.37.36:957][712]Cmd: QUIT_EDITOR
+[2018.04.09-13.37.37:040][712]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.09-13.37.37:041][712]LogExit: Preparing to exit.
+[2018.04.09-13.37.37:803][712]LogDirectoryWatcher: A directory notification for 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/' was aborted.
+[2018.04.09-13.37.37:861][712]LogExit: Editor shut down
+[2018.04.09-13.37.37:872][712]LogExit: Transaction tracking system shut down
+[2018.04.09-13.37.38:128][712]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../../../../../Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.09-13.37.38:129][712]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.09-13.37.38:272][712]LogExit: Object subsystem successfully closed.
+[2018.04.09-13.37.38:292][712]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.09-13.37.38:297][712]LogD3D11RHI: Shutdown
+[2018.04.09-13.37.38:297][712]LogD3D11RHI: CleanupD3DDevice
+[2018.04.09-13.37.38:303][712]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.09-13.37.38:330][712]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.04.09-13.37.38:330][712]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.04.09-13.37.38:331][712]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.04.09-13.37.38:331][712]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.04.09-13.37.38:331][712]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.04.09-13.37.38:331][712]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.04.09-13.37.38:332][712]LogDirectoryWatcher: A directory notification for 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/Collections/' was aborted.
+[2018.04.09-13.37.38:332][712]LogDirectoryWatcher: A directory notification for 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Content/Developers/flowersc7471/Collections/' was aborted.
+[2018.04.09-13.37.38:332][712]LogDirectoryWatcher: A directory notification for 'C:/Users/flowersc7471/Documents/Unreal Projects/EndlessRunner/Saved/Collections/' was aborted.
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.09-13.37.38:332][712]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.09-13.37.38:333][712]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.09-13.37.38:334][712]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.09-13.37.39:312][712]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.09-13.37.39:313][712]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.09-13.37.39:314][712]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.09-13.37.39:314][712]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.09-13.37.39:314][712]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.09-13.37.39:314][712]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.09-13.37.39:369][712]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.09-13.37.39:370][712]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.09-13.37.39:370][712]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.09-13.37.39:370][712]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.09-13.37.39:380][712]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.09-13.37.39:381][712]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.09-13.37.39:382][712]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.09-13.37.39:424][712]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.09-13.37.39:429][712]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.09-13.37.39:430][712]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.09-13.37.39:431][712]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.09-13.37.39:532][712]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.09-13.37.39:633][712]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.09-13.37.39:635][712]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.09-13.37.39:635][712]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.09-13.37.39:636][712]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.09-13.37.39:636][712]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.09-13.37.39:637][712]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.09-13.37.39:640][712]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.09-13.37.39:640][712]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.09-13.37.39:640][712]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.09-13.37.39:640][712]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.09-13.37.40:548][712]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.09-13.37.40:548][712]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.09-13.37.40:549][712]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.09-13.37.40:555][712]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.09-13.37.40:556][712]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.09-13.37.40:558][712]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.09-13.37.40:559][712]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.09-13.37.40:584][712]LogDerivedDataCache: Shutdown
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.09-13.37.40:585][712]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.09-13.37.40:586][712]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.09-13.37.40:586][712]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.09-13.37.40:586][712]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CB25206-4B78-660D-380A-07949EB78174%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=8a19b5b842725aa8b8af359632d11c5d%7C44068b0cc14b4fe1a6c17dd27014e0c0%7Cf3204ce5-99f7-46eb-937c-4c1cab428de2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.09-13.37.40:619][712]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.09-13.37.40:620][712]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.09-13.37.40:620][712]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.09-13.37.40:620][712]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.09-13.37.40:620][712]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.09-13.37.40:621][712]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.09-13.37.40:621][712]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.09-13.37.40:621][712]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.09-13.37.40:622][712]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.09-13.37.40:623][712]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.09-13.37.40:623][712]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.09-13.37.40:623][712]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.09-13.37.40:623][712]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.09-13.37.40:627][712]LogExit: Exiting.
+[2018.04.09-13.37.40:642][712]Log file closed, 04/09/18 08:37:40
